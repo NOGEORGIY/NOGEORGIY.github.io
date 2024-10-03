@@ -84,7 +84,11 @@
     border: 2px solid #9a7d3c;
     border-radius: 13px;
 }
-
+.blood-item {
+    background: linear-gradient(#402020, 70%, #8E3131);
+    border: 2px solid #983C3C;
+    border-radius: 13px;
+}
 /*Цвета и шрифты редкостей*/
 .nonrare {
     color:#bacaba;
@@ -104,6 +108,10 @@
 }
 .lega {
     color:#e9ff1f;
+    font-weight: 600;
+}
+.blood {
+    color: red;
     font-weight: 600;
 }
 
