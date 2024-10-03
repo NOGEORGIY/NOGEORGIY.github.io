@@ -24,8 +24,11 @@
     flex: 1/2;
     color:#f0fcf0;
     font-weight: 100;
-    max-width: 60px;
-    font-size: 18px;
+    font-size: 10px;
+    max-width: 70px;
+    max-height: 48px;
+    margin-right: 5px;
+    margin-left: 5px;
     font-family: Luminari, fantasy;
     user-select: none;
 }
