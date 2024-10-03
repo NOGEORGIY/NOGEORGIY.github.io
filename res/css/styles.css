@@ -153,6 +153,7 @@
 .polilogo {
     margin-left: auto;
     margin-right: 2px;
+    justify-self: flex-end;
 }
 
 .menu-svg:hover {
