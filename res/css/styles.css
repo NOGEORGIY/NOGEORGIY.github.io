@@ -13,7 +13,10 @@
     border: 0;   
     user-select: none;
 }
-
+.h2{
+    margin: 0;
+    padding: 0;
+}
 .mmain{
     display: flex;
     flex-direction: row;
