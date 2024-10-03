@@ -24,6 +24,7 @@
     flex: 1/2;
     color:#f0fcf0;
     font-weight: 100;
+    max-width: 60px;
     font-size: 18px;
     font-family: Luminari, fantasy;
     user-select: none;
